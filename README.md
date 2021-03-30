@@ -1,1 +1,5 @@
-# adhiambo-dev
+- 👋 Hi, I’m @adhiambo-dev
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently working on my software engineering portfolio and learning Python for Data Analysis. 
+- 💞️ I’m looking to collaborate on open source projects tackling social change issues such as hunger and drought. 
+- 📫 To reach me senad an email at adhiambo.dev@gmail.com
